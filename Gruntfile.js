@@ -1,5 +1,5 @@
 /**
- * nb-scrollbar-width
+ * nb-window
  *
  * @author Hein Bekker <hein@netbek.co.za>
  * @copyright (c) 2015 Hein Bekker

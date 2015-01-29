@@ -1,8 +1,8 @@
 {
-	"name": "nb-scrollbar-width",
+	"name": "nb-window",
 	"version": "0.0.1",
-	"description": "AngularJS service for detecting scrollbar width",
-	"homepage": "https://github.com/netbek/nb-scrollbar-width",
+	"description": "AngularJS service for detecting window and document dimensions",
+	"homepage": "https://github.com/netbek/nb-window",
 	"author": {
 		"name": "Hein Bekker",
 		"email": "hein@netbek.co.za",

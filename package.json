@@ -1,7 +1,7 @@
 {
-  "name": "nb-scrollbar-width",
+  "name": "nb-window",
   "version": "0.0.1",
-  "description": "AngularJS wrapper for Modernizr",
+  "description": "AngularJS service for detecting window and document dimensions",
   "author": {
     "name": "Hein Bekker",
     "email": "hein@netbek.co.za",
